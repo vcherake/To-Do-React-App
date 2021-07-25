@@ -1,22 +1,21 @@
 {
-  "name": "Week-8-Project",
+  "name": "to-do-react-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Todo App using React Functional Hooks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vcherake/Week-8-Project.git"
+    "url": "git+https://github.com/vcherake/To-Do-React-App.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vcherake/Week-8-Project/issues"
+    "url": "https://github.com/vcherake/To-Do-React-App/issues"
   },
-  "homepage": "https://github.com/vcherake/Week-8-Project#readme",
+  "homepage": "https://github.com/vcherake/To-Do-React-App#readme",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
